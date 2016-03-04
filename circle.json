@@ -1,0 +1,2871 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Thumbnail Offset",
+                    "size": 1
+                },
+                {
+                    "name": "exif:DateTimeOriginal",
+                    "size": 1
+                },
+                {
+                    "name": "Bits Per Sample",
+                    "size": 1
+                },
+                {
+                    "name": "YCbCr Coefficients",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Sub-Sec Time",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Make",
+                    "size": 1
+                },
+                {
+                    "name": "Seed Number",
+                    "size": 1
+                },
+                {
+                    "name": "Copyright",
+                    "size": 1
+                },
+                {
+                    "name": "dc:creator",
+                    "size": 1
+                },
+                {
+                    "name": "Author",
+                    "size": 1
+                },
+                {
+                    "name": "Coded Character Set",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags Information",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Description",
+                    "size": 1
+                },
+                {
+                    "name": "Lens Information",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Green TRC",
+                    "size": 1
+                },
+                {
+                    "name": "User Comment",
+                    "size": 1
+                },
+                {
+                    "name": "Flash",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Color space",
+                    "size": 1
+                },
+                {
+                    "name": "ISO Speed Ratings",
+                    "size": 1
+                },
+                {
+                    "name": "Global Angle",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Version",
+                    "size": 1
+                },
+                {
+                    "name": "Red Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "Components Configuration",
+                    "size": 1
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 1
+                },
+                {
+                    "name": "JPEG Quality",
+                    "size": 1
+                },
+                {
+                    "name": "Slices",
+                    "size": 1
+                },
+                {
+                    "name": "Color Space",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "Photometric Interpretation",
+                    "size": 1
+                },
+                {
+                    "name": "Interoperability Version",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 1
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                },
+                {
+                    "name": "FlashPix Version",
+                    "size": 1
+                },
+                {
+                    "name": "creator",
+                    "size": 1
+                },
+                {
+                    "name": "Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:SamplesPerPixel",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "Global Altitude",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Original",
+                    "size": 1
+                },
+                {
+                    "name": "Shutter Speed Value",
+                    "size": 1
+                },
+                {
+                    "name": "Artist",
+                    "size": 1
+                },
+                {
+                    "name": "Blue TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Model",
+                    "size": 1
+                },
+                {
+                    "name": "Primary Platform",
+                    "size": 1
+                },
+                {
+                    "name": "Class",
+                    "size": 1
+                },
+                {
+                    "name": "Caption/Abstract",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Length",
+                    "size": 1
+                },
+                {
+                    "name": "Grid and Guides Information",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Info",
+                    "size": 1
+                },
+                {
+                    "name": "Signature",
+                    "size": 1
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Firmware",
+                    "size": 1
+                },
+                {
+                    "name": "Media Black Point",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FocalLength",
+                    "size": 1
+                },
+                {
+                    "name": "Red TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Bias Value",
+                    "size": 1
+                },
+                {
+                    "name": "Date Created",
+                    "size": 1
+                },
+                {
+                    "name": "meta:author",
+                    "size": 1
+                },
+                {
+                    "name": "XMP Value Count",
+                    "size": 1
+                },
+                {
+                    "name": "Make",
+                    "size": 1
+                },
+                {
+                    "name": "exif:Flash",
+                    "size": 1
+                },
+                {
+                    "name": "By-line Title",
+                    "size": 1
+                },
+                {
+                    "name": "exif:IsoSpeedRatings",
+                    "size": 1
+                },
+                {
+                    "name": "Color Halftoning Information",
+                    "size": 1
+                },
+                {
+                    "name": "Samples Per Pixel",
+                    "size": 1
+                },
+                {
+                    "name": "Pixel Aspect Ratio",
+                    "size": 1
+                },
+                {
+                    "name": "Serial Number",
+                    "size": 1
+                },
+                {
+                    "name": "Lens",
+                    "size": 1
+                },
+                {
+                    "name": "Time Created",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Scene Capture Type",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Caption Digest",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FNumber",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 1
+                },
+                {
+                    "name": "URL List",
+                    "size": 1
+                },
+                {
+                    "name": "Interoperability Index",
+                    "size": 1
+                },
+                {
+                    "name": "Sub-Sec Time Digitized",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 1
+                },
+                {
+                    "name": "Green Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "CMM Type",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Max Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Size",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Time",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "Metering Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Data",
+                    "size": 1
+                },
+                {
+                    "name": "YCbCr Positioning",
+                    "size": 1
+                },
+                {
+                    "name": "Custom Rendered",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transfer Functions",
+                    "size": 1
+                },
+                {
+                    "name": "Print Info 2",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Tag Count",
+                    "size": 1
+                },
+                {
+                    "name": "Primary Chromaticities",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Connection Space",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "Print Scale",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Blue Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "dc:description",
+                    "size": 1
+                },
+                {
+                    "name": "Media White Point",
+                    "size": 1
+                },
+                {
+                    "name": "Version Info",
+                    "size": 1
+                },
+                {
+                    "name": "description",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 1
+                },
+                {
+                    "name": "XYZ values",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Plane Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Print Style",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Digitized",
+                    "size": 1
+                },
+                {
+                    "name": "Component 2",
+                    "size": 1
+                },
+                {
+                    "name": "Component 3",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 1
+                },
+                {
+                    "name": "Component 1",
+                    "size": 1
+                },
+                {
+                    "name": "Image Description",
+                    "size": 1
+                },
+                {
+                    "name": "Model",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Compression",
+                    "size": 1
+                },
+                {
+                    "name": "Gamma",
+                    "size": 1
+                },
+                {
+                    "name": "Application Record Version",
+                    "size": 1
+                },
+                {
+                    "name": "exif:ExposureTime",
+                    "size": 1
+                },
+                {
+                    "name": "Sub-Sec Time Original",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Length",
+                    "size": 1
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 1
+                },
+                {
+                    "name": "By-line",
+                    "size": 1
+                },
+                {
+                    "name": "File Name",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Program",
+                    "size": 1
+                },
+                {
+                    "name": "White Point",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 1
+                },
+                {
+                    "name": "F-Number",
+                    "size": 1
+                },
+                {
+                    "name": "GPS Version ID",
+                    "size": 1
+                },
+                {
+                    "name": "Device manufacturer",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                }
+            ],
+            "name": "cluster0"
+        },
+        {
+            "children": [
+                {
+                    "name": "exif:DateTimeOriginal",
+                    "size": 1
+                },
+                {
+                    "name": "Flash",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Make",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Description",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "Green TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Digital Zoom Ratio",
+                    "size": 1
+                },
+                {
+                    "name": "Color space",
+                    "size": 1
+                },
+                {
+                    "name": "ISO Speed Ratings",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Version",
+                    "size": 1
+                },
+                {
+                    "name": "Red Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 1
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Max Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Original",
+                    "size": 1
+                },
+                {
+                    "name": "Shutter Speed Value",
+                    "size": 1
+                },
+                {
+                    "name": "Blue TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Aperture Value",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Model",
+                    "size": 1
+                },
+                {
+                    "name": "Primary Platform",
+                    "size": 1
+                },
+                {
+                    "name": "Class",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Length",
+                    "size": 1
+                },
+                {
+                    "name": "Signature",
+                    "size": 1
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Media Black Point",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FocalLength",
+                    "size": 1
+                },
+                {
+                    "name": "Sharpness",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Bias Value",
+                    "size": 1
+                },
+                {
+                    "name": "Focal Length 35",
+                    "size": 1
+                },
+                {
+                    "name": "Copyright",
+                    "size": 1
+                },
+                {
+                    "name": "Make",
+                    "size": 1
+                },
+                {
+                    "name": "exif:Flash",
+                    "size": 1
+                },
+                {
+                    "name": "exif:IsoSpeedRatings",
+                    "size": 1
+                },
+                {
+                    "name": "Contrast",
+                    "size": 1
+                },
+                {
+                    "name": "Red TRC",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Scene Capture Type",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance Mode",
+                    "size": 1
+                },
+                {
+                    "name": "exif:FNumber",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Sub-Sec Time Digitized",
+                    "size": 1
+                },
+                {
+                    "name": "Green Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "Sub-Sec Time Original",
+                    "size": 1
+                },
+                {
+                    "name": "Subject Distance Range",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Size",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Time",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "Metering Mode",
+                    "size": 1
+                },
+                {
+                    "name": "Custom Rendered",
+                    "size": 1
+                },
+                {
+                    "name": "Sensing Method",
+                    "size": 1
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Units",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Tag Count",
+                    "size": 1
+                },
+                {
+                    "name": "Profile Connection Space",
+                    "size": 1
+                },
+                {
+                    "name": "Saturation",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Blue Colorant",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "Media White Point",
+                    "size": 1
+                },
+                {
+                    "name": "XYZ values",
+                    "size": 1
+                },
+                {
+                    "name": "White Balance",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time Digitized",
+                    "size": 1
+                },
+                {
+                    "name": "Component 2",
+                    "size": 1
+                },
+                {
+                    "name": "Component 3",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 1
+                },
+                {
+                    "name": "Component 1",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "Model",
+                    "size": 1
+                },
+                {
+                    "name": "exif:ExposureTime",
+                    "size": 1
+                },
+                {
+                    "name": "CMM Type",
+                    "size": 1
+                },
+                {
+                    "name": "Host Computer",
+                    "size": 1
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 1
+                },
+                {
+                    "name": "File Name",
+                    "size": 1
+                },
+                {
+                    "name": "Exposure Program",
+                    "size": 1
+                },
+                {
+                    "name": "F-Number",
+                    "size": 1
+                },
+                {
+                    "name": "Device manufacturer",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                }
+            ],
+            "name": "cluster1"
+        },
+        {
+            "children": [
+                {
+                    "name": "Unknown tag (0x0401)",
+                    "size": 1
+                },
+                {
+                    "name": "Compression",
+                    "size": 1
+                },
+                {
+                    "name": "XMP Value Count",
+                    "size": 1
+                },
+                {
+                    "name": "JPEG Quality",
+                    "size": 1
+                },
+                {
+                    "name": "Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Bits Per Sample",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:SamplesPerPixel",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "Global Altitude",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Units",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 1
+                },
+                {
+                    "name": "Color Halftoning Information",
+                    "size": 1
+                },
+                {
+                    "name": "Plug-in 1 Data",
+                    "size": 1
+                },
+                {
+                    "name": "Planar Configuration",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Offset",
+                    "size": 1
+                },
+                {
+                    "name": "Samples Per Pixel",
+                    "size": 1
+                },
+                {
+                    "name": "ICC Untagged Profile",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "Pixel Aspect Ratio",
+                    "size": 1
+                },
+                {
+                    "name": "Print Scale",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags Information",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "Caption Digest",
+                    "size": 1
+                },
+                {
+                    "name": "Mac Print Info",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 1
+                },
+                {
+                    "name": "URL List",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Length",
+                    "size": 1
+                },
+                {
+                    "name": "Version Info",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 1
+                },
+                {
+                    "name": "Grid and Guides Information",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 1
+                },
+                {
+                    "name": "XML Data",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Info",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transfer Functions",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 1
+                },
+                {
+                    "name": "Component 2",
+                    "size": 1
+                },
+                {
+                    "name": "Component 3",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "Component 1",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Seed Number",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 1
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 1
+                },
+                {
+                    "name": "Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Application Record Version",
+                    "size": 1
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "Copyright Flag",
+                    "size": 1
+                },
+                {
+                    "name": "Slices",
+                    "size": 1
+                },
+                {
+                    "name": "Color Space",
+                    "size": 1
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "Photometric Interpretation",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Compression",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 1
+                },
+                {
+                    "name": "Plug-in 2 Data",
+                    "size": 1
+                },
+                {
+                    "name": "Global Angle",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Data",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                },
+                {
+                    "name": "File Name",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                }
+            ],
+            "name": "cluster2"
+        },
+        {
+            "children": [
+                {
+                    "name": "Print Info 2",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Offset",
+                    "size": 1
+                },
+                {
+                    "name": "XMP Value Count",
+                    "size": 1
+                },
+                {
+                    "name": "JPEG Quality",
+                    "size": 1
+                },
+                {
+                    "name": "Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Component 1",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transfer Functions",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ResolutionUnit",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "Global Altitude",
+                    "size": 1
+                },
+                {
+                    "name": "Layer Selection IDs",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Width",
+                    "size": 1
+                },
+                {
+                    "name": "Exif Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 1
+                },
+                {
+                    "name": "ICC Untagged Profile",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "Seed Number",
+                    "size": 1
+                },
+                {
+                    "name": "Color Halftoning Information",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "Date/Time",
+                    "size": 1
+                },
+                {
+                    "name": "Pixel Aspect Ratio",
+                    "size": 1
+                },
+                {
+                    "name": "Layers Group Information",
+                    "size": 1
+                },
+                {
+                    "name": "Print Scale",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags Information",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Print Style",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Unit",
+                    "size": 1
+                },
+                {
+                    "name": "Caption Digest",
+                    "size": 1
+                },
+                {
+                    "name": "Print Flags",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:YResolution",
+                    "size": 1
+                },
+                {
+                    "name": "URL List",
+                    "size": 1
+                },
+                {
+                    "name": "Layer Groups Enabled ID",
+                    "size": 1
+                },
+                {
+                    "name": "Version Info",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 1
+                },
+                {
+                    "name": "Grid and Guides Information",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Info",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 1
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 1
+                },
+                {
+                    "name": "Component 2",
+                    "size": 1
+                },
+                {
+                    "name": "Component 3",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Length",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 1
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 1
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "Layer State Information",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 1
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "Image Height",
+                    "size": 1
+                },
+                {
+                    "name": "Orientation",
+                    "size": 1
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 1
+                },
+                {
+                    "name": "File Name",
+                    "size": 1
+                },
+                {
+                    "name": "Slices",
+                    "size": 1
+                },
+                {
+                    "name": "Color Space",
+                    "size": 1
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Compression",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 1
+                },
+                {
+                    "name": "Global Angle",
+                    "size": 1
+                },
+                {
+                    "name": "Thumbnail Data",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                },
+                {
+                    "name": "tiff:XResolution",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                }
+            ],
+            "name": "cluster3"
+        },
+        {
+            "children": [
+                {
+                    "name": "comment",
+                    "size": 1
+                },
+                {
+                    "name": "cp:subject",
+                    "size": 1
+                },
+                {
+                    "name": "meta:last-author",
+                    "size": 1
+                },
+                {
+                    "name": "Application-Name",
+                    "size": 1
+                },
+                {
+                    "name": "Author",
+                    "size": 1
+                },
+                {
+                    "name": "dc:title",
+                    "size": 1
+                },
+                {
+                    "name": "Comments",
+                    "size": 1
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 1
+                },
+                {
+                    "name": "Word-Count",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 1
+                },
+                {
+                    "name": "Template",
+                    "size": 1
+                },
+                {
+                    "name": "resourceName",
+                    "size": 1
+                },
+                {
+                    "name": "extended-properties:Template",
+                    "size": 1
+                },
+                {
+                    "name": "meta:author",
+                    "size": 1
+                },
+                {
+                    "name": "meta:print-date",
+                    "size": 1
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 1
+                },
+                {
+                    "name": "meta:word-count",
+                    "size": 1
+                },
+                {
+                    "name": "extended-properties:Application",
+                    "size": 1
+                },
+                {
+                    "name": "dc:creator",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_EmailSubject",
+                    "size": 1
+                },
+                {
+                    "name": "Company",
+                    "size": 1
+                },
+                {
+                    "name": "creator",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AdHocReviewCycleID",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Author",
+                    "size": 1
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 1
+                },
+                {
+                    "name": "Page-Count",
+                    "size": 1
+                },
+                {
+                    "name": "w:comments",
+                    "size": 1
+                },
+                {
+                    "name": "Revision-Number",
+                    "size": 1
+                },
+                {
+                    "name": "extended-properties:Company",
+                    "size": 1
+                },
+                {
+                    "name": "subject",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_PreviousAdHocReviewCycleID",
+                    "size": 1
+                },
+                {
+                    "name": "cp:revision",
+                    "size": 1
+                },
+                {
+                    "name": "Keywords",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 1
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 1
+                },
+                {
+                    "name": "date",
+                    "size": 1
+                },
+                {
+                    "name": "Edit-Time",
+                    "size": 1
+                },
+                {
+                    "name": "Character Count",
+                    "size": 1
+                },
+                {
+                    "name": "dc:subject",
+                    "size": 1
+                },
+                {
+                    "name": "title",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AuthorEmail",
+                    "size": 1
+                },
+                {
+                    "name": "modified",
+                    "size": 1
+                },
+                {
+                    "name": "meta:page-count",
+                    "size": 1
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AuthorEmailDisplayName",
+                    "size": 1
+                },
+                {
+                    "name": "meta:character-count",
+                    "size": 1
+                },
+                {
+                    "name": "xmpTPg:NPages",
+                    "size": 1
+                },
+                {
+                    "name": "meta:keyword",
+                    "size": 1
+                },
+                {
+                    "name": "Last-Printed",
+                    "size": 1
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 1
+                }
+            ],
+            "name": "cluster4"
+        },
+        {
+            "children": [
+                {
+                    "name": "comment",
+                    "size": 26
+                },
+                {
+                    "name": "cp:subject",
+                    "size": 20
+                },
+                {
+                    "name": "meta:last-author",
+                    "size": 24
+                },
+                {
+                    "name": "Application-Name",
+                    "size": 23
+                },
+                {
+                    "name": "Author",
+                    "size": 37
+                },
+                {
+                    "name": "dc:title",
+                    "size": 119
+                },
+                {
+                    "name": "Comments",
+                    "size": 26
+                },
+                {
+                    "name": "meta:save-date",
+                    "size": 81
+                },
+                {
+                    "name": "Word-Count",
+                    "size": 22
+                },
+                {
+                    "name": "Last-Modified",
+                    "size": 81
+                },
+                {
+                    "name": "dcterms:created",
+                    "size": 81
+                },
+                {
+                    "name": "Template",
+                    "size": 24
+                },
+                {
+                    "name": "resourceName",
+                    "size": 345
+                },
+                {
+                    "name": "extended-properties:Template",
+                    "size": 24
+                },
+                {
+                    "name": "meta:author",
+                    "size": 37
+                },
+                {
+                    "name": "meta:print-date",
+                    "size": 12
+                },
+                {
+                    "name": "dc:subject",
+                    "size": 20
+                },
+                {
+                    "name": "meta:word-count",
+                    "size": 22
+                },
+                {
+                    "name": "extended-properties:Application",
+                    "size": 23
+                },
+                {
+                    "name": "dc:creator",
+                    "size": 37
+                },
+                {
+                    "name": "Company",
+                    "size": 23
+                },
+                {
+                    "name": "creator",
+                    "size": 37
+                },
+                {
+                    "name": "Last-Author",
+                    "size": 24
+                },
+                {
+                    "name": "Creation-Date",
+                    "size": 81
+                },
+                {
+                    "name": "Page-Count",
+                    "size": 23
+                },
+                {
+                    "name": "w:comments",
+                    "size": 26
+                },
+                {
+                    "name": "Revision-Number",
+                    "size": 24
+                },
+                {
+                    "name": "extended-properties:Company",
+                    "size": 23
+                },
+                {
+                    "name": "subject",
+                    "size": 20
+                },
+                {
+                    "name": "cp:revision",
+                    "size": 24
+                },
+                {
+                    "name": "Edit-Time",
+                    "size": 19
+                },
+                {
+                    "name": "Keywords",
+                    "size": 20
+                },
+                {
+                    "name": "X-Parsed-By",
+                    "size": 345
+                },
+                {
+                    "name": "Last-Save-Date",
+                    "size": 81
+                },
+                {
+                    "name": "X-TIKA:parse_time_millis",
+                    "size": 345
+                },
+                {
+                    "name": "date",
+                    "size": 81
+                },
+                {
+                    "name": "meta:page-count",
+                    "size": 23
+                },
+                {
+                    "name": "Character Count",
+                    "size": 22
+                },
+                {
+                    "name": "title",
+                    "size": 119
+                },
+                {
+                    "name": "modified",
+                    "size": 81
+                },
+                {
+                    "name": "meta:creation-date",
+                    "size": 81
+                },
+                {
+                    "name": "meta:character-count",
+                    "size": 22
+                },
+                {
+                    "name": "xmpTPg:NPages",
+                    "size": 48
+                },
+                {
+                    "name": "meta:keyword",
+                    "size": 20
+                },
+                {
+                    "name": "Last-Printed",
+                    "size": 12
+                },
+                {
+                    "name": "dcterms:modified",
+                    "size": 81
+                },
+                {
+                    "name": "Content-Type",
+                    "size": 345
+                },
+                {
+                    "name": "Security",
+                    "size": 3
+                },
+                {
+                    "name": "extended-properties:DocSecurity",
+                    "size": 3
+                },
+                {
+                    "name": "custom:_EmailSubject",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AdHocReviewCycleID",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_ReviewingToolsShownOnce",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AuthorEmail",
+                    "size": 1
+                },
+                {
+                    "name": "custom:_AuthorEmailDisplayName",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:can_modify",
+                    "size": 25
+                },
+                {
+                    "name": "access_permission:extract_content",
+                    "size": 25
+                },
+                {
+                    "name": "producer",
+                    "size": 3
+                },
+                {
+                    "name": "xmp:CreatorTool",
+                    "size": 9
+                },
+                {
+                    "name": "access_permission:can_print",
+                    "size": 25
+                },
+                {
+                    "name": "access_permission:extract_for_accessibility",
+                    "size": 25
+                },
+                {
+                    "name": "access_permission:fill_in_form",
+                    "size": 25
+                },
+                {
+                    "name": "pdf:encrypted",
+                    "size": 25
+                },
+                {
+                    "name": "dc:format",
+                    "size": 25
+                },
+                {
+                    "name": "access_permission:can_print_degraded",
+                    "size": 25
+                },
+                {
+                    "name": "CreationDate--Text",
+                    "size": 1
+                },
+                {
+                    "name": "access_permission:assemble_document",
+                    "size": 25
+                },
+                {
+                    "name": "created",
+                    "size": 4
+                },
+                {
+                    "name": "access_permission:modify_annotations",
+                    "size": 25
+                },
+                {
+                    "name": "pdf:PDFVersion",
+                    "size": 25
+                },
+                {
+                    "name": "dc.identifier",
+                    "size": 1
+                },
+                {
+                    "name": "twitter:image",
+                    "size": 2
+                },
+                {
+                    "name": "twitter:site",
+                    "size": 2
+                },
+                {
+                    "name": "og:url",
+                    "size": 6
+                },
+                {
+                    "name": "twitter:url",
+                    "size": 2
+                },
+                {
+                    "name": "generator",
+                    "size": 5
+                },
+                {
+                    "name": "og:type",
+                    "size": 7
+                },
+                {
+                    "name": "og:title",
+                    "size": 6
+                },
+                {
+                    "name": "twitter:title",
+                    "size": 3
+                },
+                {
+                    "name": "dc.format",
+                    "size": 1
+                },
+                {
+                    "name": "description",
+                    "size": 39
+                },
+                {
+                    "name": "og:description",
+                    "size": 5
+                },
+                {
+                    "name": "Content-Type-Hint",
+                    "size": 37
+                },
+                {
+                    "name": "twitter:site:id",
+                    "size": 1
+                },
+                {
+                    "name": "og:image",
+                    "size": 6
+                },
+                {
+                    "name": "dc.language",
+                    "size": 1
+                },
+                {
+                    "name": "dc.title",
+                    "size": 1
+                },
+                {
+                    "name": "og:site_name",
+                    "size": 5
+                },
+                {
+                    "name": "Content-Encoding",
+                    "size": 100
+                },
+                {
+                    "name": "twitter:description",
+                    "size": 2
+                },
+                {
+                    "name": "twitter:card",
+                    "size": 2
+                },
+                {
+                    "name": "dc.type",
+                    "size": 1
+                },
+                {
+                    "name": "dc.date",
+                    "size": 1
+                },
+                {
+                    "name": "dc.creator",
+                    "size": 1
+                },
+                {
+                    "name": "X-UA-Compatible",
+                    "size": 8
+                },
+                {
+                    "name": "pHYs",
+                    "size": 11
+                },
+                {
+                    "name": "height",
+                    "size": 50
+                },
+                {
+                    "name": "tiff:ImageLength",
+                    "size": 125
+                },
+                {
+                    "name": "Data PlanarConfiguration",
+                    "size": 25
+                },
+                {
+                    "name": "tiff:BitsPerSample",
+                    "size": 46
+                },
+                {
+                    "name": "width",
+                    "size": 50
+                },
+                {
+                    "name": "Compression Lossless",
+                    "size": 50
+                },
+                {
+                    "name": "bKGD bKGD_RGB",
+                    "size": 3
+                },
+                {
+                    "name": "Transparency Alpha",
+                    "size": 25
+                },
+                {
+                    "name": "Compression NumProgressiveScans",
+                    "size": 50
+                },
+                {
+                    "name": "Chroma ColorSpaceType",
+                    "size": 50
+                },
+                {
+                    "name": "Chroma Gamma",
+                    "size": 4
+                },
+                {
+                    "name": "cHRM",
+                    "size": 4
+                },
+                {
+                    "name": "Dimension HorizontalPixelSize",
+                    "size": 6
+                },
+                {
+                    "name": "Compression CompressionTypeName",
+                    "size": 50
+                },
+                {
+                    "name": "Data BitsPerSample",
+                    "size": 25
+                },
+                {
+                    "name": "IHDR",
+                    "size": 25
+                },
+                {
+                    "name": "Data SampleFormat",
+                    "size": 50
+                },
+                {
+                    "name": "Chroma BlackIsZero",
+                    "size": 50
+                },
+                {
+                    "name": "Chroma NumChannels",
+                    "size": 50
+                },
+                {
+                    "name": "Dimension ImageOrientation",
+                    "size": 50
+                },
+                {
+                    "name": "sRGB",
+                    "size": 3
+                },
+                {
+                    "name": "gAMA",
+                    "size": 4
+                },
+                {
+                    "name": "tiff:ImageWidth",
+                    "size": 125
+                },
+                {
+                    "name": "Chroma BackgroundColor",
+                    "size": 3
+                },
+                {
+                    "name": "Dimension VerticalPixelSize",
+                    "size": 6
+                },
+                {
+                    "name": "Dimension PixelAspectRatio",
+                    "size": 25
+                },
+                {
+                    "name": "twitter:creator",
+                    "size": 1
+                },
+                {
+                    "name": "twitter:domain",
+                    "size": 1
+                },
+                {
+                    "name": "keywords",
+                    "size": 10
+                },
+                {
+                    "name": "article:modified_time",
+                    "size": 1
+                },
+                {
+                    "name": "news_keywords",
+                    "size": 1
+                },
+                {
+                    "name": "article:author",
+                    "size": 1
+                },
+                {
+                    "name": "article:published_time",
+                    "size": 1
+                },
+                {
+                    "name": "twitter:image:src",
+                    "size": 1
+                },
+                {
+                    "name": "tEXt tEXtEntry",
+                    "size": 9
+                },
+                {
+                    "name": "sBIT sBIT_RGBAlpha",
+                    "size": 1
+                },
+                {
+                    "name": "Data SignificantBitsPerSample",
+                    "size": 2
+                },
+                {
+                    "name": "Text TextEntry",
+                    "size": 11
+                },
+                {
+                    "name": "Document ImageModificationTime",
+                    "size": 1
+                },
+                {
+                    "name": "tIME",
+                    "size": 1
+                },
+                {
+                    "name": "iCCP",
+                    "size": 3
+                },
+                {
+                    "name": "Chroma Palette PaletteEntry",
+                    "size": 5
+                },
+                {
+                    "name": "PLTE PLTEEntry",
+                    "size": 4
+                },
+                {
+                    "name": "iTXt iTXtEntry",
+                    "size": 2
+                },
+                {
+                    "name": "DC.Type",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Date",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Date.X-MetadataLastModified",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Format",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Publisher",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Publisher.Address",
+                    "size": 1
+                },
+                {
+                    "name": "thumbnail",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Description",
+                    "size": 1
+                },
+                {
+                    "name": "rno",
+                    "size": 2
+                },
+                {
+                    "name": "DC.Identifier",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Subject",
+                    "size": 1
+                },
+                {
+                    "name": "webmaster",
+                    "size": 2
+                },
+                {
+                    "name": "viewport",
+                    "size": 4
+                },
+                {
+                    "name": "orgcode",
+                    "size": 2
+                },
+                {
+                    "name": "content-owner",
+                    "size": 2
+                },
+                {
+                    "name": "DC.Language",
+                    "size": 1
+                },
+                {
+                    "name": "DC.Title",
+                    "size": 1
+                },
+                {
+                    "name": "Number of Components",
+                    "size": 21
+                },
+                {
+                    "name": "Image Width",
+                    "size": 21
+                },
+                {
+                    "name": "tiff:Software",
+                    "size": 1
+                },
+                {
+                    "name": "Resolution Units",
+                    "size": 19
+                },
+                {
+                    "name": "Unknown tag (0x5110)",
+                    "size": 1
+                },
+                {
+                    "name": "Unknown tag (0x5112)",
+                    "size": 1
+                },
+                {
+                    "name": "Data Precision",
+                    "size": 21
+                },
+                {
+                    "name": "Component 2",
+                    "size": 21
+                },
+                {
+                    "name": "Component 3",
+                    "size": 21
+                },
+                {
+                    "name": "Component 1",
+                    "size": 21
+                },
+                {
+                    "name": "Unknown tag (0x5111)",
+                    "size": 1
+                },
+                {
+                    "name": "Software",
+                    "size": 1
+                },
+                {
+                    "name": "File Size",
+                    "size": 21
+                },
+                {
+                    "name": "X Resolution",
+                    "size": 19
+                },
+                {
+                    "name": "Image Height",
+                    "size": 21
+                },
+                {
+                    "name": "File Modified Date",
+                    "size": 21
+                },
+                {
+                    "name": "File Name",
+                    "size": 21
+                },
+                {
+                    "name": "Y Resolution",
+                    "size": 19
+                },
+                {
+                    "name": "Compression Type",
+                    "size": 21
+                },
+                {
+                    "name": "zTXt zTXtEntry",
+                    "size": 1
+                },
+                {
+                    "name": "Color Transform",
+                    "size": 3
+                },
+                {
+                    "name": "Flags 0",
+                    "size": 3
+                },
+                {
+                    "name": "Flags 1",
+                    "size": 3
+                },
+                {
+                    "name": "DCT Encode Version",
+                    "size": 3
+                },
+                {
+                    "name": "tRNS tRNS_Palette tRNS_PaletteEntry",
+                    "size": 2
+                },
+                {
+                    "name": "JPEG Comment",
+                    "size": 12
+                },
+                {
+                    "name": "CommentExtensions CommentExtension",
+                    "size": 1
+                },
+                {
+                    "name": "Dimension HorizontalPixelOffset",
+                    "size": 25
+                },
+                {
+                    "name": "ImageDescriptor",
+                    "size": 25
+                },
+                {
+                    "name": "Dimension VerticalPixelOffset",
+                    "size": 25
+                },
+                {
+                    "name": "GraphicControlExtension",
+                    "size": 25
+                },
+                {
+                    "name": "sBIT sBIT_RGB",
+                    "size": 1
+                },
+                {
+                    "name": "channels",
+                    "size": 25
+                },
+                {
+                    "name": "xmpDM:artist",
+                    "size": 10
+                },
+                {
+                    "name": "samplerate",
+                    "size": 25
+                },
+                {
+                    "name": "xmpDM:audioSampleRate",
+                    "size": 79
+                },
+                {
+                    "name": "xmpDM:releaseDate",
+                    "size": 11
+                },
+                {
+                    "name": "version",
+                    "size": 26
+                },
+                {
+                    "name": "xmpDM:audioCompressor",
+                    "size": 25
+                },
+                {
+                    "name": "xmpDM:album",
+                    "size": 8
+                },
+                {
+                    "name": "xmpDM:duration",
+                    "size": 79
+                },
+                {
+                    "name": "xmpDM:trackNumber",
+                    "size": 1
+                },
+                {
+                    "name": "xmpDM:logComment",
+                    "size": 13
+                },
+                {
+                    "name": "xmpDM:genre",
+                    "size": 5
+                },
+                {
+                    "name": "xmpDM:audioChannelType",
+                    "size": 33
+                },
+                {
+                    "name": "XMP Value Count",
+                    "size": 3
+                },
+                {
+                    "name": "LocalColorTable",
+                    "size": 1
+                },
+                {
+                    "name": "LocalColorTable ColorTableEntry",
+                    "size": 1
+                },
+                {
+                    "name": "Coded Character Set",
+                    "size": 1
+                },
+                {
+                    "name": "Caption Digest",
+                    "size": 1
+                },
+                {
+                    "name": "Application Record Version",
+                    "size": 1
+                },
+                {
+                    "name": "ApplicationExtensions ApplicationExtension",
+                    "size": 3
+                },
+                {
+                    "name": "Transparency TransparentIndex",
+                    "size": 12
+                },
+                {
+                    "name": "xmpDM:composer",
+                    "size": 4
+                },
+                {
+                    "name": "COPYRIGHT",
+                    "size": 1
+                },
+                {
+                    "name": "fb:admins",
+                    "size": 1
+                },
+                {
+                    "name": "robots",
+                    "size": 5
+                },
+                {
+                    "name": "ORGANIZATION",
+                    "size": 1
+                },
+                {
+                    "name": "KEYWORDS",
+                    "size": 1
+                },
+                {
+                    "name": "og:video",
+                    "size": 1
+                },
+                {
+                    "name": "og:video:type",
+                    "size": 1
+                },
+                {
+                    "name": "og:video:secure_url",
+                    "size": 1
+                },
+                {
+                    "name": "og:video:height",
+                    "size": 1
+                },
+                {
+                    "name": "fb:app_id",
+                    "size": 1
+                },
+                {
+                    "name": "og:video:width",
+                    "size": 1
+                },
+                {
+                    "name": "Content-Location",
+                    "size": 2
+                },
+                {
+                    "name": "referrer",
+                    "size": 1
+                },
+                {
+                    "name": "fb_admins",
+                    "size": 1
+                },
+                {
+                    "name": "PRAGMA",
+                    "size": 1
+                },
+                {
+                    "name": "fb_app_id",
+                    "size": 1
+                },
+                {
+                    "name": "CACHE-CONTROL",
+                    "size": 1
+                },
+                {
+                    "name": "publisher",
+                    "size": 1
+                },
+                {
+                    "name": "expires",
+                    "size": 1
+                },
+                {
+                    "name": "review",
+                    "size": 1
+                },
+                {
+                    "name": "author",
+                    "size": 2
+                },
+                {
+                    "name": "Content-Style-Type",
+                    "size": 1
+                },
+                {
+                    "name": "msapplication-TileColor",
+                    "size": 1
+                },
+                {
+                    "name": "swift-page-name",
+                    "size": 1
+                },
+                {
+                    "name": "msapplication-TileImage",
+                    "size": 1
+                },
+                {
+                    "name": "copyright",
+                    "size": 1
+                },
+                {
+                    "name": "verify-v1",
+                    "size": 1
+                },
+                {
+                    "name": "Pragma",
+                    "size": 5
+                },
+                {
+                    "name": "google-site-verification",
+                    "size": 1
+                },
+                {
+                    "name": "last-modified",
+                    "size": 1
+                },
+                {
+                    "name": "x-ua-compatible",
+                    "size": 8
+                },
+                {
+                    "name": "ResourceLoaderDynamicStyles",
+                    "size": 1
+                },
+                {
+                    "name": "Generator",
+                    "size": 2
+                },
+                {
+                    "name": "Description",
+                    "size": 1
+                },
+                {
+                    "name": "dc:description",
+                    "size": 25
+                }
+            ],
+            "name": "cluster5"
+        }
+    ],
+    "name": "clusters"
+}
